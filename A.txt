@@ -6,3 +6,5 @@ Hi class How are you you are fine k
 sclaer
 interviewbit
 banglore
+
+Adding random stuff in A.txt file
